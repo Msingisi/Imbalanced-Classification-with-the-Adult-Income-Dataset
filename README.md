@@ -19,6 +19,7 @@ This project explores the relationship between various demographic factors and i
   - Native Country
   - Age
   - Hours Per Week
+- Quick glance at the results
 
 ## Dataset
 The dataset used in this analysis is the Adult dataset, which contains demographic information and income levels. The dataset is publicly available and commonly used for machine learning and data analysis projects.
@@ -83,3 +84,17 @@ The dataset used in this analysis is the Adult dataset, which contains demograph
 
 - 75.215% of individuals earn less than or equal to $50K (34,013 individuals).
 - 24.785% of individuals earn more than $50K (11,208 individuals).
+
+## Quick glance at the results
+
+Top 5 models after hyper parameter tuning
+
+| Model     	        | Precision score 	|
+|-------------------	|------------------	|
+| Random Forest     	| 85% 	            |
+| Extra Trees    	| 85% 	            |
+| Bagging           	| 89% 	            |
+
+- ***The final model used is: Bagging classifier***
+- ***Metrics used: Precision (89%)***
+
