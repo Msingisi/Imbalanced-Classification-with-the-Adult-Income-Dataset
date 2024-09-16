@@ -8,12 +8,12 @@ This project explores the relationship between various demographic factors and i
 - Dataset
 - Analysis
 - Work Class
--- Education
--- Marital Status
--- Occupation
--- Relationship
--- Race
--- Gender
--- Native Country
--- Age
--- Hours Per Week
+. Education
+. Marital Status
+. Occupation
+. Relationship
+. Race
+. Gender
+. Native Country
+. Age
+. Hours Per Week
