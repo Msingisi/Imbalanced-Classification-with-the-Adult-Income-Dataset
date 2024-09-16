@@ -9,16 +9,16 @@ This project explores the relationship between various demographic factors and i
 - Overview
 - Dataset
 - Analysis
-** Work Class
-** Education
-** Marital Status
-** Occupation
-** Relationship
-** Race
-** Gender
-** Native Country
-** Age
-** Hours Per Week
+  - Work Class
+  - Education
+  - Marital Status
+  - Occupation
+  - Relationship
+  - Race
+  - Gender
+  - Native Country
+  - Age
+  - Hours Per Week
 
 ## Dataset
 The dataset used in this analysis is the Adult dataset, which contains demographic information and income levels. The dataset is publicly available and commonly used for machine learning and data analysis projects.
