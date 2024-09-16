@@ -26,18 +26,60 @@ The dataset used in this analysis is the Adult dataset, which contains demograph
 ## Analysis
 **Work Class**
 
-- Individuals who are self-employed (incorporated) have a 55.4% likelihood of earning more than $50K.
-- Those employed by the federal government have a 39.0% likelihood of earning more than $50K.
-- Individuals without work have a 9.5% likelihood of earning more than $50K.
+- 55.4% of individuals who are self-employed (incorporated) earn more than $50K.
+- 39.0% of those employed by the federal government earn more than $50K.
+- 9.5% of individuals without work earn more than $50K.
 
 **Education**
 
-- Individuals with a doctorate degree have a 73.3% likelihood of earning more than $50K.
-- Those who attended professional school have a 75.4% likelihood of earning more than $50K.
-- Individuals with pre-school education have a 1.4% likelihood of earning more than $50K.
-
+- 73.3% of individuals with a doctorate degree earn more than $50K.
+- 75.4% of those who attended professional school earn more than $50K.
+- 1.4% of individuals with pre-school education earn more than $50K.
 
 **Marital Status**
 
-- Married individuals with a civilian spouse have a 45.4% likelihood of earning more than $50K.
-- Individuals who have never married have a 4.8% likelihood of earning more than $50K.
+- 45.4% of married individuals with a civilian spouse earn more than $50K.
+- 4.8% of individuals who have never married earn more than $50K.
+
+**Occupation**
+
+- 47.9% of individuals in executive and managerial roles earn more than $50K.
+- 1.3% of those in private house service roles earn more than $50K.
+
+**Relationship**
+
+- 48.6% of wives earn more than $50K.
+- 1.6% of own children earn more than $50K.
+
+**Race**
+
+- 28.3% of Asian and Pacific Islander individuals earn more than $50K.
+- 26.2% of White individuals earn more than $50K.
+- 12.2% of American First Nation individuals earn more than $50K.
+
+**Gender**
+
+- 31.2% of males earn more than $50K.
+- 11.4% of females earn more than $50K
+
+**Native Country**
+
+- 44.4% of individuals from France earn more than $50K.
+- 42.2% of those from India earn more than $50K.
+- 4.9% of individuals from Columbia earn more than $50K.
+
+**Age**
+
+- Up to 40.4% of individuals aged 40-49 earn more than $50K.
+- Almost no individuals aged 17-20 earn more than $50K.
+
+**Hours Per Week**
+
+- 44.9% of individuals working 50 hours per week earn more than $50K.
+- 75.0% of those working 61 hours per week earn more than $50K.
+- Up to 16.7% of individuals working 1-10 hours per week earn more than $50K.
+
+**Income Distribution**
+
+- 75.215% of individuals earn less than or equal to $50K (34,013 individuals).
+- 24.785% of individuals earn more than $50K (11,208 individuals).
