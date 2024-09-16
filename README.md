@@ -3,7 +3,7 @@
 The analysis reveals significant disparities in income levels based on demographic factors. Higher education, certain occupations, and working more hours per week are strongly associated with higher income levels. Conversely, lower education levels, certain occupations, and fewer working hours are associated with lower income levels.
 
 ## Overview
-This project explores the relationship between various demographic factors and income levels using the Adult dataset. The primary focus is on identifying the percentage of individuals earning more than $50K across different categories.
+This project aims to predict income levels based on various demographic factors using the Adult dataset. The primary focus is on building a model to accurately classify individuals as earning more than $50K or less than or equal to $50K across different categories.
 
 ## Table of Contents
 - Overview
