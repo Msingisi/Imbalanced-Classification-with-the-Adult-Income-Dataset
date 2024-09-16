@@ -91,9 +91,9 @@ Top 5 models after hyper parameter tuning
 
 | Model     	        | Precision score 	|
 |-------------------	|------------------	|
-| Random Forest     	| 85% 	            |
-| Extra Trees    	| 85% 	            |
-| Bagging           	| 89% 	            |
+| Bagging     	| 89% 	            |
+| Random forest    	| 86% 	            |
+| Extra Trees           	| 89% 	            |
 
 - ***The final model used is: Bagging classifier***
 - ***Metrics used: Precision (89%)***
